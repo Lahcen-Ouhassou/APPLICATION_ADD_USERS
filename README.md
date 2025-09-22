@@ -22,8 +22,6 @@ This is a simple PHP CRUD application for managing user records. It allows you t
 1. Clone the repository:
    ```bash
    git clone https://github.com/Lahcen-Ouhassou/APPLICATION_ADD_USERS.git
-   
-
 
 
 Developed by **[Lahcen Ouhassou](https://github.com/Lahcen-Ouhassou)**  
